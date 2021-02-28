@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e1de9a21034da6874404403b12f8dd, type: 3}
+  m_Name: Logger Internal
+  m_EditorClassIdentifier: 
+  Label: internal
+  Settings:
+    Internal: 1
+    Gameplay: 0
+    Standard: 1
+    Warning: 1
+    Error: 1
+    UnityConsole: 1
+    ProjectConsole: 1
+    LogFile: 1
